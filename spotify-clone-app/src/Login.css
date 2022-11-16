@@ -1,0 +1,14 @@
+import React from 'react';
+import './Login.css';
+
+function Login() {
+    return (
+        <div className="login">
+        {/* Spotify logo */}
+        {/* Login with Spot */}
+        </div>
+
+    )
+}
+
+export default Login
