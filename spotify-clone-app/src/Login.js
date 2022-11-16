@@ -1,8 +1,9 @@
 import React from 'react'
-
+import ".App.css";
+import Login from "./Login"
 function Login() {
     return (
-        <div>
+        <div className="app">
            {/* Spotify logo */}
            {/* Loginwith Spotify button */}
         </div>

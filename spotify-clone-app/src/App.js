@@ -8,7 +8,7 @@ return (
 
   {/* Spotify Logo */}
  {/* Login with Spotify button */}
-<Logib />
+<Login />
   </div>
 )
  }
